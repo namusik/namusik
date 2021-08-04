@@ -20,11 +20,12 @@ I am interested in FinTech Technology.
 
 <!--My Portfolio
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://righteous-diploma-bbd.notion.site/2a061449b73c473991e03f9cb5dae420) -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://righteous-diploma-bbd.notion.site/2a061449b73c473991e03f9cb5dae420) 
 
 My Blog
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://namusik.tistory.com/)  
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namusik)](https://github.com/anuraghazra/github-readme-stats)
 
