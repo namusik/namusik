@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Woosik Nam
 #### I am Java Developer from South Korea
 
-I am interested in Java and SrpignBoot and FinTech Technology.
+I am majored in Business Administration.
+I am good at Java and Spring Framework.
+I am interested in FinTech Technology.
 
 Skills: JAVA/SPRING/ORACLE
 
