@@ -15,9 +15,6 @@ I am interested in FinTech Technology.
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
 
 
-
-Skills: JAVA/SPRING/ORACLE/JavaScript
-
 - 🌱 I’m currently learning Spring Boot 
 
 
