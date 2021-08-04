@@ -5,7 +5,7 @@ I am majored in Business Administration.
 I am good at Java and Spring Framework.
 I am interested in FinTech Technology.
 
-Skills: JAVA/SPRING/ORACLE
+Skills: JAVA/SPRING/ORACLE/JavaScript
 
 - 🌱 I’m currently learning Spring Boot 
 
