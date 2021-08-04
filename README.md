@@ -4,7 +4,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: JAVA/SPRING/ORACLE
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Spring Boot 
 
 
