@@ -1,9 +1,4 @@
-### Hi there 👋, my name is Woosik Nam
-#### I am Java Developer from South Korea
-
-I am majored in Business Administration.
-I am good at Java and Spring Framework.
-I am interested in FinTech Technology.
+### 안녕하세요 👋, 저는 개발자 남우식입니다!
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
