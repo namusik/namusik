@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
 
 Blog : https://velog.io/@rainbowweb
+</br>
 Portfolio : https://www.notion.so/2a061449b73c473991e03f9cb5dae420
 
 <!--My Portfolio
