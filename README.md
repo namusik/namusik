@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
 
-Blog : https://velog.io/@rainbowweb
+My Blog : https://velog.io/@rainbowweb
 </br>
-Portfolio : https://righteous-diploma-bbd.notion.site/2a061449b73c473991e03f9cb5dae420
+My Portfolio : https://righteous-diploma-bbd.notion.site/2a061449b73c473991e03f9cb5dae420
 <!--My Portfolio
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://righteous-diploma-bbd.notion.site/2a061449b73c473991e03f9cb5dae420) 
