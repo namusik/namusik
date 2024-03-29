@@ -7,6 +7,6 @@
 
 My Blog : https://velog.io/@rainbowweb
 </br>
-# My Portfolio : https://righteous-diploma-bbd.notion.site/2a061449b73c473991e03f9cb5dae420
+My Portfolio : https://righteous-diploma-bbd.notion.site/2a061449b73c473991e03f9cb5dae420
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namusik)](https://github.com/anuraghazra/github-readme-stats)
