@@ -1,5 +1,3 @@
-### 안녕하세요, 저는 개발자 남우식입니다!
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
